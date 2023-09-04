@@ -4,4 +4,5 @@ Gem::Specification.new do |s|
   s.version = "0.0.1"
   s.description = "The tool to download figma icons"
   s.files = Dir['**/*']
+  s.summary = "The tool to download figma icons"
 end
